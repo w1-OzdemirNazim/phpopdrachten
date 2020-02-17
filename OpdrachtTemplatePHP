@@ -10,27 +10,23 @@
 <!DOCTYPE html>
 <html lang="nl">
 
-<head>
-    <title>
+    <head>
+        <title>
 
-    </title>
-    <meta name="description" content=" ">
-    <meta name="keywords" content=" ">
-    <meta charset="utf-8">
-    <link rel="stylesheet" type="text/css" href="Hoofdstuk2/css/stylesheet.css">
+        </title>
+        <meta name="description" content=" ">
+        <meta name="keywords" content=" ">
+        <meta charset="utf-8">
+        <link rel="stylesheet" type="text/css" href="Hoofdstuk2/css/stylesheet.css">
 </head>
 
 <body>
+
+    <aside>
+        <h2>Menu</h2>
+
+        <a href="index.php">Terug</a>
+
+    </aside>
 </body>
-
-<aside
-
-    <ul>
-        <li>Hoofdstuk 2
-            <ul>
-                <li>
-                    <a href="" ></a>
-                </li>
-            </ul>
-        </li>
-    </ul>
+</html>

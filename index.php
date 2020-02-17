@@ -40,9 +40,6 @@
         </li>
     </ul>
 
-
-    <a href="index.php">Terug</a>
-
 </aside>
 <main id="wrapper">
     <h2>Uitwerkingen</h2>
