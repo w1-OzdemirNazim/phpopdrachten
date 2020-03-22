@@ -56,3 +56,5 @@ echo '<p>Voor het vak <b>'.$courseName.'</b> heb je <b>'.$teacherName.'</b> als 
 <?php
 include "../../Includes/footer.php"
 ?>
+
+
