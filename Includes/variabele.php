@@ -10,18 +10,18 @@ $hournow = date("G");
 
 if ($hournow > 5 && $hournow < 12)
 {
-    $greeting = "goedemorgen a niffo";
+    $greeting = "goedemorgen mensen";
 }
 elseif ($hournow > 11 && $hournow < 18 )
 {
-    $greeting = "Goedenmiddag a niffo";
+    $greeting = "Goedenmiddag mensen";
 }
 elseif ($hournow > 17 && $hournow < 24 )
 {
-    $greeting = "Goedenavond a niffo";
+    $greeting = "Goedenavond mensen";
 }
 elseif ($hournow > 0 && $hournow < 6 )
 {
-    $greeting = "Goedennacht a niffo";
+    $greeting = "Goedennacht mensen";
 }
 ?>
