@@ -7,6 +7,4 @@
     <h1><?php echo "Uitwerking van PHP-opdrachten"; ?></h1>
 </header>
 
-<aside>
-    <a href="../index.php">Terug</a>
-</aside>
+ <a href="../index.php">Terug</a>
