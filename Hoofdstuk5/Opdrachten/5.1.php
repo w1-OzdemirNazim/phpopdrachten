@@ -37,9 +37,6 @@
             <input type="submit" name="Versturen" value="Versturen">
         </form>
     </div>
-
-
-
     <br><br>
 <?php
 include "../../includes/Footer.php";
