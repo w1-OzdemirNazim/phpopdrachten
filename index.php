@@ -40,6 +40,16 @@
         </li>
     </ul>
 
+    <ul>
+        <li>Hoofdstuk 3
+            <ul>
+                <li>
+                    <a href="Hoofdstuk3/Opdrachten/3.3.php">Opdracht 3.3</a>
+                </li>
+            </ul>
+        </li>
+    </ul>
+
 </aside>
 <main id="wrapper">
     <h2>Uitwerkingen</h2>
