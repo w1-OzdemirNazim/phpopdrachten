@@ -49,6 +49,43 @@
             </ul>
         </li>
     </ul>
+    <ul>
+        <li>Hoofdstuk 4
+            <ul>
+                <li>
+                    <a href="Hoofdstuk4/Opdrachten/4.1.php" >Opdracht 4.1</a>
+                </li>
+                <li>
+                    <a href="Hoofdstuk4/Opdrachten/4.2.php" >Opdracht 4.2</a>
+                </li>
+                <li>
+                    <a href="Hoofdstuk4/Opdrachten/4.3.php" >Opdracht 4.3</a>
+                </li>
+                <li>
+                    <a href="Hoofdstuk4/Opdrachten/4.4.php" >Opdracht 4.4</a>
+                </li>
+            </ul>
+        </li>
+    </ul>
+    <ul>
+        <li>Hoofdstuk 5
+            <ul>
+                <li>
+                    <a href="Hoofdstuk5/Opdrachten/5.1.php" >Opdracht 5.1</a>
+                </li>
+                <li>
+                    <a href="Hoofdstuk5/Opdrachten/5.2.php" >Opdracht 5.2</a>
+                </li>
+                <li>
+                    <a href="Hoofdstuk5/Opdrachten/5.3.php" >Opdracht 5.3</a>
+                </li>
+                <li>
+                    <a href="Hoofdstuk5/Opdrachten/5.4.php" >Opdracht 5.4</a>
+                </li>
+            </ul>
+        </li>
+    </ul>
+
 
 </aside>
 <main id="wrapper">
