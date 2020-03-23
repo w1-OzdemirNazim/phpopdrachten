@@ -7,7 +7,7 @@
  */
 ?>
 
-<!DOCTYPE html>
+<!--<!DOCTYPE html>
 <html lang="nl">
 <head>
     <title>
@@ -21,11 +21,12 @@
 
 </head>
 <body>
-<h2>Uitwerking van PHP-opdrachten</h2>
+<h2>Uitwerking van PHP-opdrachten</h2>-->
 <div class="box">
     <?php
     include "script.php"
     ?>
+
 </div>
 </body>
 </html>
