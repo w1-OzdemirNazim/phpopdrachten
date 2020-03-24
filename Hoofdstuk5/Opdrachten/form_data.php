@@ -35,7 +35,7 @@ include "../../includes/header.php";
     </table>
 
 <?php
-include "../../includes/Footer.php";
+include "../../includes/footer.php";
 ?>
 
 

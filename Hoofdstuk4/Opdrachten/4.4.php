@@ -55,3 +55,4 @@ echo $test //hierdoor komt het op het scherm
 <?php
 include "../../Includes/footer.php"
 ?>
+

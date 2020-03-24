@@ -42,7 +42,7 @@ include "../../Includes/header.php"
     </div>
     <br><br>
 <?php
-include "../../includes/Footer.php";
+include "../../includes/footer.php";
 ?>
 
 
