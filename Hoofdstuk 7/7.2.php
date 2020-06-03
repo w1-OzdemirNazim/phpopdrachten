@@ -8,7 +8,7 @@
  */
 ?>
 <?php
-include "../includes/header.php"
+include "../Includes/header.php"
 ?>
 <?php
 try
@@ -55,5 +55,5 @@ while ($row = $result->fetch(PDO::FETCH_ASSOC))
     ?>
 </table>
 <?php
-include "../includes/footer.php"
+include "../Includes/footer.php"
 ?>
