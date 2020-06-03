@@ -1,4 +1,16 @@
 <?php
+/**
+ * User: Nazim Özdemir
+ * Date: 24-5-2020
+ * Time: 12:00
+ * File: 7.1.php
+ */
+?>
+
+<?php
+include "../Includes/header.php"
+?>
+<?php
 // Open de database connectie en ODBC driver
 try
 {
@@ -42,5 +54,10 @@ echo "</pre>";
 foreach($aJokes as $grap) {
     echo "<br>".$grap['joketext'];
 }
+?>
+
+<?php
+include "../Includes/footer.php"
+?>
 
 
